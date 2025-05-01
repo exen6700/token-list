@@ -1,0 +1,15 @@
+,
+{
+  "chainId": 101,
+  "address": "4nFYwcdJFn8VNeRrCar4MHzHGoi4CZvAezKSe7dgfNCQ",
+  "symbol": "PRDT",
+  "name": "Predator Token",
+  "decimals": 9,
+  "logoURI": "https://r.resimlink.com/EQoGq1C.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "http://prdttoken.com",
+    "twitter": "https://x.com/prdttoken?s=11",
+    "telegram": "https://t.me/prdttoken"
+  }
+}
